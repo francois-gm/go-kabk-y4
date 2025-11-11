@@ -11,18 +11,18 @@
 
 ### Planning
 
-- **Schedule**: (almost) **every Thursday**, from **February 5th** up to **April 2nd**
-- **Hours, group A**: **9h15 to 13h15** (class) + 13h30 to 15h30 (signups)
-- **Hours, group B**: 11h15 to 13h15 (signups) + **13h30 to 17h30** (class)
-- **Duration**: **6 classes** spread on 8 weeks.
+- **Schedule**: (almost) **every Thursday**, from **February 5th** up to **April 2nd**.
+- **Hours, group A**: **9h15 to 13h15** (class) + 13h30 to 15h30 (signups).
+- **Hours, group B**: 11h15 to 13h15 (signups) + **13h30 to 17h30** (class).
+- **Duration**: **6 classes** spread over 8 weeks.
 - **Deadline**: final delivery on **Thursday April 2nd (TBC)**.
 
 ### Activities
 
-- Two first february classes (**5th, 12th**), workshop structure, reviewing and expanding on coding notions for the assignment
+- Two first February classes (**5th, 12th**), workshop structure, reviewing and expanding on coding notions for the assignment.
 - End February and March: mostly Individual feedback classes (**sign-up** sheet, **10–15 minutes individual time slots**)...
 - ... but the possibility of making small groups feedback (4-5 people, sign-up sheet, 60 minutes) as well.
-- **Self-directed** (if not meeting for feedback, you'd be expected to advance/work on your project)
+- **Self-directed** (if not meeting for feedback, you'd be expected to advance/work on your project).
 - In order to pass, attendance is set at 80% of classes (so 6 classes out of 8).
 
 ### Working methodology
@@ -59,34 +59,36 @@ Questions to ask **before delivering your project**:
 
 - We'll need a small group to make a landing page for this year's research document websites. As examples, here are the landing pages of [2025](https://kabk.github.io/go-theses-25/), [2024](https://kabk.github.io/go-theses-24/), [2023](https://kabk.github.io/go-theses-23/), [2022](https://kabk.github.io/go-theses-22/), [2021](https://kabk.github.io/go-theses-21/), [2020](https://kabk.github.io/go-theses-20/), and [2019](https://kabk.github.io/go-theses-19/). It would be nice to have this sorted out for the **end of February**.
 
-## First class
+## First class (February 5th)
 
-Morning (**9h-12h30**): group **A** <br>
-12h30-13h: group **A** + **B** <br>
-Afternoon (**13h30-17h**): group **B** <br>
+Morning (**9h15-11h45**): group **A** <br>
+12h00-12h45: group **A** + **B** <br>
+Afternoon (**13h15-15h45**): group **B** <br>
 
 | - | - |
 | -------- | --------------------- |
-| 09:00-9:45 | **Group A**, intro (this document)
-| 9:45-12:30 | Workshop *Describing web experiences* |
-| 12:30-13:00 | **Groups A + B**, introduction word from Chantal and Lauren |
+| 09:15-11:45 | **Group A**, workshop *Describing web experiences* + *Sketching with code (1/2)* |
+| 12:00-12:45 | **Groups A + B**, intro (this document) |
+| 12:45-13:15 | **Lunch** |
+| 13:30-15:45 | **Group B**, workshop *Describing web experiences* + *Sketching with code (1/2)* |
+
+## Class 2 (February 12th)
+
+| - | - |
+| -------- | --------------------- |
+| 11:00-13:00 | **Group A**, workshop *HTML starterkits* + *Sketching with code (2/2)* |
 | 13:00-13:30 | **Lunch** |
-| 13:30-14:15 | **Group B**, intro (this document)
-| 14:15-17:00 | Workshop *Describing web experiences* |
-
-## Class 2 (9th of December)
-
-Group A in morning (François + Thomas) (9h00-13h00) <br>
-Group B in afternoon (Thomas) (13h30-17h30) + Dec 10th in the morning (François) (9h00-13h00) <br>
+| 13:30-15:30 | **Group B**, workshop *HTML starterkits* + *Sketching with code (2/2)* |
 
 - **François**:
 - - HTML, starterkits and html/document structure
 - **Thomas**:
 - - Sketching with code (2/2)
 
-## Classes 3–7 (16th of December)
+## Classes 3–7
 
-Assignment-based mentoring
+Assignment-based mentoring (regular hours, with two extra hours for signups on classes 6–7)
+
 In no particular order:
 - Github Pages workshop
 - Website debugging / preparation for deploy
@@ -94,4 +96,3 @@ In no particular order:
 ## Class 8
 
 (individual) assessments
-
