@@ -67,18 +67,18 @@ Afternoon (**13h15-15h45**): group **B** <br>
 
 | Time | Group / activity |
 | -------- | --------------------- |
-| 09:15-11:45 | **Group A**, workshop *Describing web experiences* + *Sketching with code (1/2)* |
+| 09:15-11:45 | **Group A**, workshop: *describing web experiences* + *sketching with code (1/2)* |
 | 12:00-12:45 | **Groups A + B**, intro (this document) |
 | 12:45-13:15 | **Lunch** |
-| 13:30-15:45 | **Group B**, workshop *Describing web experiences* + *Sketching with code (1/2)* |
+| 13:30-15:45 | **Group B**, workshop: *describing web experiences* + *sketching with code (1/2)* |
 
 ## Class 2 (February 12th)
 
 | Time | Group / activity |
 | -------- | --------------------- |
-| 11:00-13:00 | **Group A**, workshop *HTML starterkits* + *Sketching with code (2/2)* |
+| 11:00-13:00 | **Group A**, workshop: *HTML starterkits* + *ketching with code (2/2)* |
 | 13:00-13:30 | **Lunch** |
-| 13:30-15:30 | **Group B**, workshop *HTML starterkits* + *Sketching with code (2/2)* |
+| 13:30-15:30 | **Group B**, workshop: *HTML starterkits* + *ketching with code (2/2)* |
 
 - **François**:
 - - HTML, starterkits and html/document structure
