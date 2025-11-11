@@ -2,11 +2,11 @@
 
 A quick exercice about looking at and describing web experiences
 
-## 1) Show us a coding project you realized in your previous study years (40min)
+## 1) Show us a coding project you realized in your previous study years (30min)
 
-a) Describe your project in 3 sentences and under one minute. Tell us what the project is about, what it does, and how it technically works.
+a) Describe your project in **three sentences** and under **one minute**. Tell us what the project is about, what it does, and how it technically works.
 
-b) Then try to answer these questions in three more sentences:
+b) Then try to answer these questions in **three more sentences** and **under one more minute**:
 
 - What positive qualities can you see in it?
 - What did you afterwards realize could have worked better?
@@ -15,31 +15,9 @@ b) Then try to answer these questions in three more sentences:
 
 **5 minutes** for preparing, **2 minutes** each for presenting.
 
-## 2) Website as a Narrative Experience (45min)
+## 2) The Good, The Bad, and the... (45min) (two rounds)
 
-Visit an (assigned) website and review describe its experience. Write it in **max 40 words** (use [wordcounter.net](https://wordcounter.net) to count words). Consider **appearance**, **movement**, **structure** and/or **navigation**. Use a descriptive writing style, with no subjects. *The word bank and assigned websites are in the annex below.* Suggestion: less words and precise words, is more.
-
-After, each student reads its prompt to the group. After all prompts are read, websites are presented in a second table turn.
-
-**8 minutes** for writing, **1 minute** each for presenting.
-
-```
-
-A monochrome website with a classic appearance. 
-A subtle touch of functional fantasy.
-Neutral, dry, vernacular or generous? 
-
-Clear and obvious structure and information.
-Items can be added to your basket. 
-But it feels more like an archive, a catalog.
-
-Source: https://after8books.com
-
-```
-
-## 3) The Good, The Bad, and the... (45min)
-
-This time, you'll be assigned a website and will be assigned either to take the 'good' (positive/supportive) side or the 'bad' (negative/critical) side. Please elaborate on the five points below, with one (short) sentence each. For each points, are the solution 'adequate' according to you and how it 'should' be (in terms of affordance). Try to convince us, but also be *fair play* ;)
+This time, you'll be assigned a website and will be assigned either to take the 'good' (positive/supportive) side or the 'bad' (negative/critical) side. Please elaborate on the five points below, with one (short) sentence each. For each points, are the design choices 'adequate' according to you and, if not, how would you think it should be (in terms of affordance)? Try to convince us, but also be *fair play* ;)
 
 1. Appearance
 2. Movement
@@ -48,9 +26,9 @@ This time, you'll be assigned a website and will be assigned either to take the 
 5. Functionality (does it do what it should)
 6. Accessibility
 
-After you have your points ready, the website will be made visible to the rest of the group and both sides will, in a exchange, present their points. Then, the group will vote on whether the *good* or *bad* has convinced its audience.
+After you have your arguments ready, both sides will, in a exchange, present their (counter) arguments. Then, the website will be revealed to the rest of the group.
 
-**8 minutes** for writing, **1 minutes** per website presentation.
+**8 minutes** for writing, **1 minutes** per person per website presentation.
 
 ## Annex
 
