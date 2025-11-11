@@ -62,7 +62,7 @@ Questions to ask **before delivering your project**:
 ## First class (February 5th)
 
 Morning (**9h15-11h45**): group **A** <br>
-12h00-12h45: group **A** + **B** <br>
+**12h00-12h45**: group **A** + **B** <br>
 Afternoon (**13h15-15h45**): group **B** <br>
 
 | Time | Group / activity |
