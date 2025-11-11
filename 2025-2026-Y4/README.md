@@ -76,9 +76,9 @@ Afternoon (**13h15-15h45**): group **B** <br>
 
 | Time | Group / activity |
 | -------- | --------------------- |
-| 11:00-13:00 | **Group A**, workshop: *HTML starterkits* + *ketching with code (2/2)* |
+| 11:00-13:00 | **Group A**, workshop: *HTML starterkits* + *sketching with code (2/2)* |
 | 13:00-13:30 | **Lunch** |
-| 13:30-15:30 | **Group B**, workshop: *HTML starterkits* + *ketching with code (2/2)* |
+| 13:30-15:30 | **Group B**, workshop: *HTML starterkits* + *sketching with code (2/2)* |
 
 - **François**:
 - - HTML, starterkits and html/document structure
