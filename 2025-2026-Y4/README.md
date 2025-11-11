@@ -3,7 +3,7 @@
 ## The assignment
 
 - Conceptualize, design and code a web version of your research document.
-- Work with code in your website sketching process (we won't look at your .pdf or 'indesign' website sketches proposal).
+- Work with code in your website sketching process (we won't look at your .pdf, "indesign" or "figma" website sketches proposal).
 - Publish (deploy) it on the KABK's GitHub repo.
 - Ensure it is archivable on the university's *researchcatalogue.net*.
 
