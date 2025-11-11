@@ -65,7 +65,7 @@ Morning (**9h15-11h45**): group **A** <br>
 12h00-12h45: group **A** + **B** <br>
 Afternoon (**13h15-15h45**): group **B** <br>
 
-| - | - |
+| Time | Group / activity |
 | -------- | --------------------- |
 | 09:15-11:45 | **Group A**, workshop *Describing web experiences* + *Sketching with code (1/2)* |
 | 12:00-12:45 | **Groups A + B**, intro (this document) |
@@ -74,7 +74,7 @@ Afternoon (**13h15-15h45**): group **B** <br>
 
 ## Class 2 (February 12th)
 
-| - | - |
+| Time | Group / activity |
 | -------- | --------------------- |
 | 11:00-13:00 | **Group A**, workshop *HTML starterkits* + *Sketching with code (2/2)* |
 | 13:00-13:30 | **Lunch** |
