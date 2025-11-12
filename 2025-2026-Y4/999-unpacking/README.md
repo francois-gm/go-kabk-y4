@@ -1,12 +1,6 @@
-# Unpacking 📦
+# Ressources 📦
 
-Who, when, where and how is a website is accessed and consumed? 
-
-A website can be thought as a space, a tool, a platform, a container, for accessing **content**. It works like an elastic, and flexes to accomodate its content. The *CSS* (Cascade Style Sheet) offers **directives** regarding visual appearance, which are not absolute obligations, but work in hand with the user's device and their browsing preferences ('dark mode' being a preference, as an example).
-
-So, when it's on the web, you can't have the ultimate control on viewing contexts and your visitors: you need to embrace this 'flexibility' of contexts and display contexts. 
-
-## Ressources toolbox (sections)
+## Toolbox (sections)
 
 - [HTML tags and semantic HTML](#semantic-html-)
 - [The CSS 'cascade'](#the-css-cascade)
@@ -147,11 +141,7 @@ This is what CSS media queries are for: https://css-tricks.com/a-complete-guide-
 
 More tips about debugging on this Github's '[How-to-how](../06-how-to-how)' page.
 
-## What about footnotes? 📖
-
-See the ressource part of this Github's '[What about footnotes?](../07-footnotes)' page.
-
-## Ressources 🧰
+## Further ressources 🧰
 
 Features issues & support:
 
