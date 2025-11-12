@@ -124,7 +124,7 @@ After you have your arguments ready, both sides will, in a exchange, present the
 5. [Photographers](http://blommers-schumm.com)
 6. [Editorial platform](http://schemasofuncertainty.com)
 7. [Type foundry](https://abcdinamo.com)
-8. [Educational institution](https://icpp.space)
+8. [Portfolio website](https://camilleschneider.ch/de)
 9. [Movie promotional website](https://www.spacejam.com/1996/)
 10. [Portfolio website](https://julijonasurbonas.lt/)
 11. [Cultural institution](https://nieuweinstituut.nl)
@@ -133,14 +133,14 @@ After you have your arguments ready, both sides will, in a exchange, present the
 
 1. [Cultural institution](https://www.poetryproject.org)
 2. [Personal website](http://users.wfu.edu/ecarlson/index.html)
-3. [Merchant website](https://www.lingscars.com)
+3. [Merchant website](https://yvettesbridalformal.p1r8.net)
 4. [Publishing event](https://www.itsabook.de/)
 5. [Research/archive platform](https://biblio-graph.org)
 6. [Municipal website](https://www.denhaag.nl/en.htm)
 7. [Portfolio website](https://janniswichmann.com/de)
 8. [Art education](https://www.rijksakademie.nl)
 9. [Merchant website](https://www.bol.com/)
-10. [Portfolio website](https://claraberger.net)
+10. [Portfolio website](https://hannahbohnen.de)
 11. [Artistic platform](https://www.documenta14.de/en/plain/)
 
 #### B2
