@@ -1,4 +1,4 @@
-# How-to-how
+# How to debug
 
 Common issues...
 
@@ -22,7 +22,7 @@ Sometimes it doesn't work because there is a typo, and it can prove frustrating 
 - Are brackets opened and **closed**?
 - Is the punctuation mark between your property and your value a colon, `:`, and is your punctuation mark after the value a semicolon, `;` (as in `color:blue;`)
 
-## Refresh issues, website doesn't appear with new changes (cache issues)
+## Refresh issues, website doesn't appear with new changes (cache issues, if page is *online*)
 
 - Always test your website using your browser's '**private navigation**' mode, to make sure your browser's cache doesn't impact what you see. If your changes don't appear, close and re-open the browser and make sure you're in private mode. You can also append (add) `?ver=1.1` and increment this to your .css and .js stylesheets to force cache reload (to force other visitor's cache if you deploy your website again online). ([more](https://stackoverflow.com/questions/1614429/what-is-style-cssver-1-tag))
 
@@ -30,18 +30,7 @@ Sometimes it doesn't work because there is a typo, and it can prove frustrating 
 
 If you're able to summarize your issue, it's quite possible someone has asked about it before online. **Use google and enumerate your issue in a simple sentence**, trying to be as **brief and explicit** as possible. Don't forget to **mention the programming language**. Popular places to read about previous user issues and how they solved them are [Stackoverflow](https://stackoverflow.com) and [CSS Tricks](https://css-tricks.com). Besides, the [w3schools.com](https://www.w3schools.com/html/default.asp), Mozilla's [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), Google's [Web.dev](https://web.dev) are also useful ressource for general documentation. Don't forget to **check the date** of the post/document (if it seems old, +5 years, check for more recent takes on your issue).
 
-### 10 tips for a good bug report ([on testmonitor.com](https://www.testmonitor.com/blog/how-to-write-a-bug-report-that-solves-issues-effectively))
-
-1. **Structure**: test carefully
-2. **Reproduce**: test it again
-3. **Isolate**: test it differently
-4. **Generalize**: test it elsewhere
-5. **Compare**: review results of similar tests
-6. **Summarize**: relate test to customers
-7. **Condense**: trim unnecessary information
-8. **Disambiguate**: use clear words
-9. **Neutralize**: express problem impartially
-10. **Review**: be sure
+If use LLMs ("AI", "ChatGPT"), then it is worthy to actually provide as most information as possible, and be as specific while doing so.
 
 ### How to debug small programs (adapted from [Eric Clippert, read more here](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/))
 
