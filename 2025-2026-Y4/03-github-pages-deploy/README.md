@@ -17,7 +17,7 @@
 In your Githup Desktop App (top left corner of the app):
 - `Add -> Create new repository`
 - ![Step 1](step-1-2.jpg)
-- Naming convention: `go-theses-[year]-[firstname]-[lastname]` (example: go-theses-25-francois-girard-meunier)... 'thes**e**s' with a 'e' (plural of thesis), the year only with the **last two digits**, and your first name + last name in **lowercase**.
+- Naming convention: `go-theses-[year]-[firstname]-[lastname]` (example: go-theses-26-francois-girard-meunier)... 'thes**e**s' with a 'e' (plural of thesis), the year only with the **last two digits**, and your first name + last name in **lowercase**.
 - You can also use: https://slugify.online to figure out how to format your name following the right naming convention.
 - Path: *where you will be working on your thesis from your computer desktop drive.*
 - Other options: *as you wish (you can always add these files later if you want).*
