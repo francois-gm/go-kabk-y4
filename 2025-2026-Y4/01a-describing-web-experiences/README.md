@@ -105,7 +105,7 @@ After you have your arguments ready, both sides will, in a exchange, present the
 
 1. [Art institution](https://www.kunstinstituutmelly.nl/)
 2. [Merchant website](https://www.marktplaats.nl)
-3. ~~[Publisher](https://after8books.com)~~
+3. [Publisher](https://after8books.com)
 4. [Travel and transportation](https://www.transavia.com/en-EU/home/)
 5. [Photographer](http://vytautaskumza.com)
 6. [Online radio](http://radio.garden)
@@ -124,7 +124,7 @@ After you have your arguments ready, both sides will, in a exchange, present the
 5. [Photographers](http://blommers-schumm.com)
 6. [Editorial platform](http://schemasofuncertainty.com)
 7. [Type foundry](https://abcdinamo.com)
-8. [Art event](https://2122.schauspielhaus.ch/en/)
+8. [Educational institution](https://icpp.space)
 9. [Movie promotional website](https://www.spacejam.com/1996/)
 10. [Portfolio website](https://julijonasurbonas.lt/)
 11. [Cultural institution](https://nieuweinstituut.nl)
