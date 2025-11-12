@@ -71,8 +71,6 @@ Read more:
 - [More about the *box model*](https://css-tricks.com/the-css-box-model/)
 - [Cool interactive demo of the *box model*](http://web.simmons.edu/~grovesd/comm244/notes/week6/box-layout-demo.html)
 
-See the ressource part of this Github's '[CSS Layout](../02-css-layout)' page for more information about the *box model* and CSS layouting properties.
-
 ## CSS length units
 
 CSS offers several different units for expressing dimensions. Many CSS properties take “length” values, such as width, margin, padding, font-size, etc. Length is a number followed by a length unit, such as 10px, 5%, etc. [Read more about css units](https://www.w3schools.com/css/css_units.asp), on the w3cschool.com.
@@ -139,7 +137,7 @@ This is what CSS media queries are for: https://css-tricks.com/a-complete-guide-
 3. Use the development tools to simulate your website at several screen sizes. On Google Chrome -> [Shift]+[Cmd]+[C] | on Firefox -> or [Alt]+[Cmd]+[I]. Then on both options you can find a mobile device / tablet icon that allows you to simulate several screen sizes.
 4. But don't forget to also **test on a real mobile device** (for this you'll need to deploy your website online first, normally in a temporary/secret place but for this exercice you can push it online for testing purposes and implement further modifications afterwards on the same repository). Example of why test on a real device: *the 'rubber band' scrolling effect with [showing/hiding browser nav bar](https://www.google.com/search?q=ios+safari+navbar+scroll&source=lnms&tbm=isch) in iOS safari or [overscrolling issues](https://css-tricks.com/almanac/properties/o/overscroll-behavior/) from a modal to the page's body, or the way a css `vh` unit [is calculating differing on mobiles](https://dev.to/maciejtrzcinski/100vh-problem-with-ios-safari-3ge9), devices with a [notch](https://css-tricks.com/the-notch-and-css/) hiding content, etc.* Or **just the feeling of actually touching your website buttons/links** might make you realize they are too small/difficult to touch?
 
-More tips about debugging on this Github's '[How-to-how](../06-how-to-how)' page.
+More tips about debugging on this Github's '[How-to-debug](../999-how-to-debug)' page.
 
 ## Further ressources 🧰
 
