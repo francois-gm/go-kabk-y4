@@ -71,6 +71,14 @@ Read more:
 - [More about the *box model*](https://css-tricks.com/the-css-box-model/)
 - [Cool interactive demo of the *box model*](http://web.simmons.edu/~grovesd/comm244/notes/week6/box-layout-demo.html)
 
+## The box model
+
+The *box model* is a representation of the html elements' expected behaviour regarding margin, padding, borders values and the inner content of an element. This visual model is also used in your browser's 'developers tool', so if you’re working on or analyzing a website you’ll see it.
+
+The css property `box-sizing` can be used to impact how the `padding` property is calculated in relationship to the width or height of the element. ([Read more on w3schools.com](https://www.w3schools.com/css/css3_box-sizing.asp))
+
+![The box model](box-model.png)
+
 ## CSS length units
 
 CSS offers several different units for expressing dimensions. Many CSS properties take “length” values, such as width, margin, padding, font-size, etc. Length is a number followed by a length unit, such as 10px, 5%, etc. [Read more about css units](https://www.w3schools.com/css/css_units.asp), on the w3cschool.com.
