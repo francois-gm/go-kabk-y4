@@ -149,7 +149,7 @@ After you have your arguments ready, both sides will, in a exchange, present the
 2. [Art event](https://2018.transmediale.de)
 3. [Institutional website](https://icpp.space)
 4. [Travel and transportation](https://www.nightjet.com/en/)
-5. [Editorial platform](https://yctm.e-flux.com/)
+5. [Editorial platform](https://thehtml.review/04/)
 6. [Archive platform](https://www.glazespectrum.com)
 7. [Research project](http://info.cern.ch)
 8. [Merchant website](https://migle-editions.com/)
