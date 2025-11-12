@@ -30,7 +30,7 @@
 3. Your website can be *indexed* by search engines, can be scraped by APIs and and is also readable through 'reading mode' on safari
 4. It might look better when printed, exported to .pdf, or exported to other formats
 
-### What could be a *semantic* structure in the context of the thesis-as-a-website assignment?
+### What could be a *semantic* structure in the context of this assignment?
 
 Use the `<figure>` tag for images / visual medias:
   
@@ -43,7 +43,7 @@ Use the `<figure>` tag for images / visual medias:
 
 Put your footnotes in a `<footer>` tag if at the end of your document, in a `<aside>` tag is presented as a sidebar…<br>
 Put your table of contents inside a `<nav>` tag.<br>
-Put your thesis title inside the `<h1>` tag, the `<h1>` being inside the `<header>` tag, use the right tags for the right elements (`h1`, `h2`, […] `p`, `ul`, `ol`, `blockquote`, `a`, `sup`, etc)
+Put your page title inside the `<h1>` tag, the `<h1>` being inside the `<header>` tag, use the right tags for the right elements (`h1`, `h2`, […] `p`, `ul`, `ol`, `blockquote`, `a`, `sup`, etc)
 
 ## The CSS cascade
 
