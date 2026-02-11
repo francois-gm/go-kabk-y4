@@ -87,7 +87,3 @@ Further links on CSS media queries:
 
 - Ressource: https://css-tricks.com/a-complete-guide-to-css-media-queries/
 - Examples: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
-
-## JS boilerplate
-
-Plain, modern Javascript for interactivity is wrapped into a 'document loaded' function. This allows you to have your script file in your HTML 'head'.
