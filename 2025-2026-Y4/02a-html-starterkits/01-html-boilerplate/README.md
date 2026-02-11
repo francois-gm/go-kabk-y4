@@ -45,6 +45,10 @@ For the **HTML** boilerplate, here are the following components:
 
 Here, it's not essential to follow this stucture. Nonetheless, using HTML tags in a semantic order is encouraged.
 
+**End of document**
+
+Before the closing body tag, your javascript file containing your page scripts.
+
 ## CSS boilerplate
 
 The CSS boilerplate (`style.css`)includes several elements.
