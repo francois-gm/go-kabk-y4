@@ -39,8 +39,22 @@
   /* Font values */
   --font-text: 'Your Font Name', 'Helvetica', 'Arial', sans-serif;
   --font-size: 24px;
-  /* Margin value */
+  /* Margin values */
   --margin: 1rem;
+
+
+  /* Examples of possible variables */
+
+  --font-size-heading: calc(var(--font-size) * 2);
+  --font-size-subheading: calc(var(--font-size) * 1.25);
+  --font-size-caption: calc(var(--font-size) * 0.875);
+
+  --margin-xs: calc(var(--margin) * 0.5);
+  --margin-s: calc(var(--margin) * 1);
+  --margin-m: calc(var(--margin) * 2);
+  --margin-l: calc(var(--margin) * 3);
+  --margin-xl: calc(var(--margin) * 5);
+
 }
 
 
@@ -76,6 +90,11 @@ a:hover {
 
 h1{
   /* h1 style */
+  font-size: clamp(
+    var(--font-size-heading),
+    4vw,
+    calc(var(--font-size-heading) * 1.25)
+  );
 }
 
 h2{
@@ -133,6 +152,11 @@ summary{
   
 }
 
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
 
 
 

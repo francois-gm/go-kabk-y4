@@ -1,7 +1,7 @@
 # A little exercise
 
-Use the boilerplate with css presented to you previously.
-Then spend 10-15 minutes using CSS and the boilerplate to style your page based on the qualities you've received.
+Use the starterkit with css presented to you previously.
+Then spend 10-15 minutes using CSS and the starterkit to style your page based on the qualities you've received.
 
 Each of gets a quality in each of this list:
 

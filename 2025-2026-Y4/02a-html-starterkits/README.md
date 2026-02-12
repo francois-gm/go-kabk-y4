@@ -1,13 +1,14 @@
-# HTML boilerplate
+# HTML starterkit
 
 In this module:
 
-- [HTML boilerplate](01-html-boilerplate)
+- [HTML starterkit](01-html-starterkit)
   - Folder structure
   - HTML part
   - CSS part
   - JS part
-- [Example 1, Boilerplate without CSS](02a-boilerplate-without-css)
-- [Example 2, Boilerplate with CSS](02b-boilerplate-with-css)
-- [Exercise 1, CSS styling with a boilerplate](03-exercise)
+- [Example 1, Starterkit without CSS](02a-starterkit-without-css)
+- [Example 2, Starterkit with CSS](02b-starterkit-with-css)
+- [Example 3, Starterkit with CSS, looping pages](02c-starterkit-with-css-loop)
+- [Exercise 1, CSS styling with a starterkit](03-exercise)
 
