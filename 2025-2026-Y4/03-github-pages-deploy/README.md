@@ -18,7 +18,7 @@ In your Githup Desktop App (top left corner of the app):
 
 - `Add -> Create new repository`
 - ![Step 1](step-1-2.jpg)
-- Naming convention: `go-[year]-[firstname]-[lastname]` (example: go-26-francois-girard-meunier)... the year only with the **last two digits**, and your first name + last name in **lowercase**.
+- Naming convention: `go-theses-[year]-[firstname]-[lastname]` (example: go-theses-26-francois-girard-meunier)... the year only with the **last two digits**, and your first name + last name in **lowercase**.
 - You can also use: https://slugify.online to figure out how to format your name following the right naming convention.
 - Path: *where you will be working on your thesis from your computer desktop drive.*
 - Other options: *as you wish (you can always add these files later if you want).*
@@ -49,7 +49,7 @@ In your Githup Desktop App (top left corner of the app):
 - ![Step 3](step-3-2.jpg)
 
 - Now, you can do the following actions in order to 'update' your website 'fetch', 'commit', 'push' and 'pull'.
-- This will be your URL: https://kabk.github.io/go-26-francois-girard-meunier
+- This will be your URL: https://kabk.github.io/go-theses-26-francois-girard-meunier
 - But it throws an error 404! Oops.
 - Just add an `index.html` file to your folder, make a 'commit', and 'push' that commit: this will update the github folder with your changes.
 - Then, on the Github website: https://github.com/kabk/
